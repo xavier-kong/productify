@@ -1,4 +1,6 @@
 Project clean up
+dev branches / feature branches
+workflow with pull requests etc testing + linting
 ESLint and Prettier
 Material UI
 Amplify setup 
