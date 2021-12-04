@@ -14,7 +14,17 @@
     },
     "plugins": ["react", "@typescript-eslint"],
     "rules": {
-        "react/jsx-filename-extension": [2, { "extensions": [".ts", ".tsx"] }],
-        "react/react-in-jsx-scope": "off"
+        "react/jsx-filename-extension": [
+            2,
+            { "extensions": [".ts", ".tsx", ".js"] }
+        ],
+        "react/react-in-jsx-scope": "off",
+        "react/function-component-definition": [
+            2,
+            {
+                "namedComponents": "arrow-function",
+                "unnamedComponents": "arrow-function"
+            }
+        ]
     }
 }
