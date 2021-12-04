@@ -3,7 +3,6 @@ dev branches / feature branches
 "react/jsx-props-no-spreading": "off" after designing props
 workflow with pull requests etc testing + linting
 tests
-Material UI
 Amplify setup 
 Theme design
 GraphQL API Amplify
@@ -17,4 +16,3 @@ Page Design etc
 Ideas:
 https://www.youtube.com/watch?v=cLKLqpxPSws
 https://www.youtube.com/watch?v=kY--_5NhQoc
-
