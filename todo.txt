@@ -1,7 +1,7 @@
 Project clean up
 dev branches / feature branches
 workflow with pull requests etc testing + linting
-ESLint and Prettier
+tests
 Material UI
 Amplify setup 
 Theme design
