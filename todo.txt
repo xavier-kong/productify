@@ -1,5 +1,6 @@
 Project clean up
 dev branches / feature branches
+"react/jsx-props-no-spreading": "off" after designing props
 workflow with pull requests etc testing + linting
 tests
 Material UI
