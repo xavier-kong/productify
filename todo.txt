@@ -1,3 +1,7 @@
+Current task
+configure GraphQL API 
+
+To do
 Project clean up
 dev branches / feature branches
 "react/jsx-props-no-spreading": "off" after designing props
@@ -5,7 +9,6 @@ workflow with pull requests etc testing + linting
 tests
 Amplify setup 
 Theme design
-GraphQL API Amplify
 Amplify authentication
 Server Side Rendering, getStaticProps, getServerProps etc
 AWS Lambda 
@@ -16,3 +19,9 @@ Page Design etc
 Ideas:
 https://www.youtube.com/watch?v=cLKLqpxPSws
 https://www.youtube.com/watch?v=kY--_5NhQoc
+
+Roadmap:
+To do list with sign in/up
+Calender view with timing
+Auto reschedule tasks
+Github + Leetcode streak tracker

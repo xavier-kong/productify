@@ -37,6 +37,9 @@ yarn-error.log*
 *.tsbuildinfo
 
 amplify/team-provider-info.json
+amplify/backend/api/productify/cli-inputs.json
+amplify/backend/api/productify/parameters.json
+amplify/backend/api/productify/stacks/CustomResources.json
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
