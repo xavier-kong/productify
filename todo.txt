@@ -1,7 +1,8 @@
 Current task
-configure GraphQL API 
+Set up GraphQL (watch the vid!)
 
 To do
+DB Design and stuff
 Project clean up
 dev branches / feature branches
 "react/jsx-props-no-spreading": "off" after designing props
