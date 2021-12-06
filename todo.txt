@@ -1,4 +1,6 @@
 Current task
+Undo the amplify stuff :(
+
 Set up GraphQL (watch the vid!)
 
 To do
