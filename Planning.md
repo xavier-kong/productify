@@ -10,6 +10,7 @@ This document will be used to plan the vision and development road map for the p
     -   API calls
         -   GraphQL
     -   Authentication
+    -   State Management
 -   Back End
     -   Server vs Serverless
 -   Database and storage
@@ -17,6 +18,14 @@ This document will be used to plan the vision and development road map for the p
     -   Images and files
     -
 -   Hosting/Infrastructure
+    -   AWS
+    -   Terraform
 -   Testing
+    -   Unit testing
+    -   E2E integration tests
+    -   Jest, Cypress, Storybook etc
 -   CI/CD Pipelines
+    -   GitHub Actions vs TravisCI vs CircleCI vs Jenkins
 -   Formatting and rules
+    -   Linting
+    -   Prettier
