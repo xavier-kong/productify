@@ -13,6 +13,10 @@ This document will be used to plan the vision and development road map for the p
 
 ## <a name="front-end"></a>Front End
 
+The core product consists of a central dashboard containing a task list (to-do list) and a calendar next to it. Users will be able to add, update, delete tasks and changes will be reflected in the calendar view. What sets this apart from other productivity apps is the dashboard automatically updating based on how fast or slow users complete tasks. Life/work is never static and always dynamic so why should your productivty manager be any different.
+
+I plan to also be able to open indivdual tasks in a seperate view to add notes or create sub tasks.
+
 -   Library/Framework
     -   CRA vs Gatsby vs Next.js
 -   UI Frameworks
