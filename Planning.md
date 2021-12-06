@@ -2,13 +2,14 @@
 
 This document will be used to plan the vision and development road map for the project. I will be discussing the different layers/components of the project as well as the rationale behind choosing certain technologies for accomplishing the development of said layers.
 
+-   System context diagram
 -   Front End
     -   Library/Framework
         -   CRA vs Gatsby vs Next.js
     -   UI Frameworks
         -   Material UI
     -   API calls
-        -   GraphQL
+        -   GraphQL and Schema
     -   Authentication
     -   State Management
 -   Back End
@@ -16,7 +17,7 @@ This document will be used to plan the vision and development road map for the p
 -   Database and storage
     -   SQL vs NoSQL
     -   Images and files
-    -
+    -   Schema design
 -   Hosting/Infrastructure
     -   AWS
     -   Terraform
