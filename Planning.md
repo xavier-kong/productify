@@ -2,17 +2,19 @@
 
 This document will be used to plan the vision and development road map for the project. I will be discussing the different layers/components of the project as well as the rationale behind choosing certain technologies for accomplishing the development of said layers.
 
--   [System context diagram] (#System-context-diagram)
--   Front End
--   Back End
--   Database and storage
--   Hosting/Infrastructure
--   Testing
--   CI/CD Pipelines
--   Formatting and rules
+-   [System context diagram](system-context-diagram)
+-   [Front End](#front-end)
+-   [Back End](#back-end)
+-   [Database and storage](#db-and-storage)
+-   [Hosting/Infrastructure](#hosting/infra)
+-   [Testing](#testing)
+-   [CI/CD Pipelines](#pipelines)
+-   [Formatting and rules](#formatting)
 
--   System context diagram
--   Front End
+### <a name="system-context-diagram"></a>System context diagram
+
+### <a name="front-end"></a>Front End
+
     -   Library/Framework
         -   CRA vs Gatsby vs Next.js
     -   UI Frameworks
@@ -21,27 +23,34 @@ This document will be used to plan the vision and development road map for the p
         -   GraphQL and Schema
     -   Authentication
     -   State Management
--   Back End
+
+### <a name="back-end"></a>Back End
+
     -   Server vs Serverless
--   Database and storage
+
+### <a name="db-and-storage"></a>Database and storage
+
     -   SQL vs NoSQL
     -   Images and files
     -   Schema design
--   Hosting/Infrastructure
+
+### <a name="hosting/infra"></a>Hosting/Infrastructure
+
     -   AWS
     -   Terraform
+
+### <a name="testing"></a>Testing
+
 -   Testing
     -   Unit testing
     -   E2E integration tests
     -   Jest, Cypress, Storybook etc
--   CI/CD Pipelines
+
+### <a name="pipelines"></a>CI/CD Pipelines
+
     -   GitHub Actions vs TravisCI vs CircleCI vs Jenkins
--   Formatting and rules
+
+### <a name="formatting"></a>Formatting and rules
+
     -   Linting
     -   Prettier
-
-### <a name="head1234"></a>A Heading in this SO entry!
-
-and we can even [link](#head1234) to it so:
-
-### <a name="System-context-diagram"></a>A Heading in this SO entry!
