@@ -17,7 +17,9 @@ The core product consists of a central dashboard containing a task list (to-do l
 
 I plan to also be able to open indivdual tasks in a seperate view to add notes or create sub tasks.
 
-I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React framekworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks.
+I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React framekworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
+
+The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering.
 
 -   Library/Framework
     -   CRA vs Gatsby vs Next.js
