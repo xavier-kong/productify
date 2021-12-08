@@ -19,7 +19,7 @@ I plan to also be able to open indivdual tasks in a seperate view to add notes o
 
 I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React framekworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
 
-The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering. As there are no static content such as blogs and articles, using a static site generator such as Gatsby might not be the best option.
+The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering. As there are no static content such as blogs and articles, using a static site generator such as Gatsby might not be the best option. Furthermore, there does not seem to be a clear reason to prefer a server side rendering solution rather than using client side rendering, which would also make deployment and hosting easier. Therefore, a tool like Create-React-App would most likely be used for the project.
 
 -   Library/Framework
     -   CRA vs Gatsby vs Next.js
