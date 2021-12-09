@@ -28,8 +28,9 @@ Productify seeks to leverage the power of dynamic timeboxing to provide a modern
 
 Key features include:
 
--   Automatic scheduling of tasks based on progress of current tasks
--
+-   Automatic scheduling/rescheduling of tasks based on progress of current tasks and priority
+-   Easy capture and planning of future tasks.
+-   Unified to-do list and calender view (daily/weekly/monthly/yearly) options
 
 ## <a name="context"></a>Context
 
