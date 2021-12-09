@@ -20,6 +20,17 @@ This document will be used to plan the vision and development road map for the p
 
 The productivity management software market is very saturated, there are so many solutions out there that <a href="https://www.keepproductive.com/">someone</a> has built their career out of reviewing productivity management software. Despite the multitude of solutions out there, I have never been able to find an adequate solution for my own system. I believe strongly in the value of timeboxing, however the method is inherently static while our lives are dynamic and it does not make sense to have to manually update my entire calender just because a meeting overuns by 15 minutes.
 
+Modular solutions like Notion offer flexibility to create a system customized for your own workflow and philosophy but I found the time and effort required to maintain the system as well as the lack of the weekly calendar view made it a non viable option. Other solutions based around to-do lists/task management, such as Trello, Todoist, TickTick offer fantastic high quality solutions but I could not justify paying for a solution where I would still have to put in effort to maintain for my workflow.
+
+This is where Productify comes in.
+
+Productify seeks to leverage the power of dynamic timeboxing to provide a modern productivity management solution.
+
+Key features include:
+
+-   Automatic scheduling of tasks based on progress of current tasks
+-
+
 ## <a name="context"></a>Context
 
 ## <a name="goals"></a>Goals
