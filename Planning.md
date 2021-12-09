@@ -1,15 +1,30 @@
-# Planning
+# Productify Design Document
 
 This document will be used to plan the vision and development road map for the project. I will be discussing the different layers/components of the project as well as the rationale behind choosing certain technologies for accomplishing the development of said layers.
 
--   [Front End](#front-end)
--   [Back End](#back-end)
--   [Database and storage](#db-and-storage)
--   [Hosting/Infrastructure](#hosting/infra)
--   [Testing](#testing)
--   [CI/CD Pipelines](#pipelines)
--   [System context diagram](#system-context-diagram)
--   [Formatting and rules](#formatting)
+-   [Overview](#overview)
+-   [Context](#context)
+-   [Goals and Non-Goals](#goals)
+-   [Milestones](#milestones)
+-   [Proposed Solutions and Technical Architecture](#solutions)
+    -   [Front End](#front-end)
+    -   [Back End](#back-end)
+    -   [Database and storage](#db-and-storage)
+    -   [Hosting/Infrastructure](#hosting/infra)
+    -   [Testing](#testing)
+    -   [CI/CD Pipelines](#pipelines)
+    -   [System context diagram](#system-context-diagram)
+    -   [Formatting and rules](#formatting)
+
+## <a name="overview"></a>Overview
+
+## <a name="context"></a>Context
+
+## <a name="goals"></a>Goals
+
+## <a name="milestones"></a>Milestones
+
+## <a name="solutions"></a>Proposed Solutions and Technical Architecture
 
 ## <a name="front-end"></a>Front End
 
@@ -17,12 +32,10 @@ The core product consists of a central dashboard containing a task list (to-do l
 
 I plan to also be able to open indivdual tasks in a seperate view to add notes or create sub tasks.
 
-I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React framekworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
+I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React frameworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
 
-The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering. As there are no static content such as blogs and articles, using a static site generator such as Gatsby might not be the best option. Furthermore, there does not seem to be a clear reason to prefer a server side rendering solution rather than using client side rendering, which would also make deployment and hosting easier. Therefore, a tool like Create-React-App would most likely be used for the project.
+The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering. As there are no static content such as blogs and articles, using a static site generator such as Gatsby might not be the best option. Furthermore, there does not seem to be a clear reason to prefer a server side rendering solution rather than using client side rendering, which would also make deployment and hosting easier. Therefore, a React bootstrapping tool like Create-React-App would most likely be used for the project.
 
--   Library/Framework
-    -   CRA vs Gatsby vs Next.js
 -   UI Frameworks
     -   Material UI
 -   API calls
