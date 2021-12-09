@@ -18,6 +18,8 @@ This document will be used to plan the vision and development road map for the p
 
 ## <a name="overview"></a>Overview
 
+The productivity management software market is very saturated, there are so many solutions out there that <a href="https://www.keepproductive.com/">someone</a> has built their career out of reviewing productivity management software. Despite the multitude of solutions out there, I have never been able to find an adequate solution for my own system. I believe strongly in the value of timeboxing, however the method is inherently static while our lives are dynamic and it does not make sense to have to manually update my entire calender just because a meeting overuns by 15 minutes.
+
 ## <a name="context"></a>Context
 
 ## <a name="goals"></a>Goals
