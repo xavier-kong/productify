@@ -47,13 +47,18 @@ Goals:
 Non Goals:
 
 -   Using AI
--
 
 Future Goals:
 
 -   Google (Calendar, Gmail, etc) API integration
 
 ## <a name="milestones"></a>Milestones
+
+Start Date: 3rd December 2021
+
+Milestone 1 - Complete Design Document: 26th December 2021
+
+Milestone 2 -
 
 ## <a name="solutions"></a>Proposed Solutions and Technical Architecture
 
@@ -63,7 +68,7 @@ The core product consists of a central dashboard containing a task list (to-do l
 
 I plan to also be able to open indivdual tasks in a seperate view to add notes or create sub tasks.
 
-I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job. In terms of React frameworks, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
+I will be using the React.js JavaScript library to code the front end as I think it offers the right tools for the job and I am most familiar with it compared to frameworks like Vue, Angular or Svelte. In terms of React frameworks/solutions, the 3 most common are the Create-React-App, Gatsby and Next.js frameworks. To decide which framwork to use, I explored a few key factors.
 
 The app itself does not have the need for SEO as it is designed for personal use i.e. only users should be able to access their own content and no one else. Furthermore, the "gated" nature of the app would greatly reduce the need for any server side rendering. As there are no static content such as blogs and articles, using a static site generator such as Gatsby might not be the best option. Furthermore, there does not seem to be a clear reason to prefer a server side rendering solution rather than using client side rendering, which would also make deployment and hosting easier. Therefore, a React bootstrapping tool like Create-React-App would most likely be used for the project.
 
