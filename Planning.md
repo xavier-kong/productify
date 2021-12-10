@@ -36,7 +36,22 @@ Key features include:
 -   Easy capture and planning of future tasks.
 -   Unified to-do list and calender view (daily/weekly/monthly/yearly) options
 
-## <a name="goals"></a>Goals
+## <a name="goals"></a>Goals and Non-Goals
+
+Goals:
+
+-   Initial time under 5 seconds
+-   Each component will be developed with Test Driven Development principles
+-   Serverless architechture will be used for the project
+
+Non Goals:
+
+-   Using AI
+-
+
+Future Goals:
+
+-   Google (Calendar, Gmail, etc) API integration
 
 ## <a name="milestones"></a>Milestones
 
