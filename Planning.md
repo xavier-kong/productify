@@ -78,8 +78,7 @@ The app itself does not have the need for SEO as it is designed for personal use
 
 I plan to use a UI framework for the project rather than creating custom components and designs from scratch. My previous projects have been completely lacking in any form of UI design and so I understand there is a clear need for "beautiful" and user friendly front-end design. Using a front-end UI framework would allow me to use prebuilt components, which would speed up development time and provide better design out of the box.
 
-    -   Bootstrap, bulky and not as customizable
-    -   Material UI
+Much like the Javascript ecosystem, the UI framework ecosystem is full of different solutions such as Material UI, Bootstrap, Ant Design, Storybook, Blueprint JS, Semantic UI. For this project, I will most likely use Material UI as I am familiar with it and I think Material Design principles would work well with the needs of the project. Furthermore, Material UI, compared to frameworks like Bootstrap, offer more customizablility and less "bulk".
 
 -   API calls
     -   GraphQL and Schema
