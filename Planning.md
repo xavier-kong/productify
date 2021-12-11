@@ -80,7 +80,7 @@ I plan to use a UI framework for the project rather than creating custom compone
 
 Much like the Javascript ecosystem, the UI framework ecosystem is full of different solutions such as Material UI, Bootstrap, Ant Design, Storybook, Blueprint JS, Semantic UI. For this project, I will most likely use Material UI as I am familiar with it and I think Material Design principles would work well with the needs of the project. Furthermore, Material UI, compared to frameworks like Bootstrap, offer more customizablility and less "bulk".
 
--   API calls
+-   Remote Client-Server Communications API calls
     -   GraphQL and Schema
 -   Authentication
 -   State Management
