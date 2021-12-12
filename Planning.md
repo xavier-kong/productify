@@ -84,6 +84,7 @@ Much like the Javascript ecosystem, the UI framework ecosystem is full of differ
     -   GraphQL and Schema
 -   Authentication
 -   State Management
+    -   Redux
 
 ## <a name="back-end"></a>Back End
 
