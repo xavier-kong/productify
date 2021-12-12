@@ -9,7 +9,7 @@ This document will be used to plan the vision and development road map for the p
 -   [Proposed Solutions and Technical Architecture](#solutions)
     -   [Front End](#front-end)
     -   [Back End](#back-end)
-    -   [Database and storage](#db-and-storage)
+    -   [Database and storage (persistance)](#db-and-storage)
     -   [Hosting/Infrastructure](#hosting/infra)
     -   [Testing](#testing)
     -   [CI/CD Pipelines](#pipelines)
@@ -91,7 +91,7 @@ Much like the Javascript ecosystem, the UI framework ecosystem is full of differ
 -   Server vs Serverless
 -   Infrastructure
 
-## <a name="db-and-storage"></a>Database and storage
+## <a name="db-and-storage"></a>Database and storage (persistance)
 
 -   SQL vs NoSQL
 -   Images and files
