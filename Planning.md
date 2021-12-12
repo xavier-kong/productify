@@ -88,12 +88,14 @@ Much like the Javascript ecosystem, the UI framework ecosystem is full of differ
 ## <a name="back-end"></a>Back End
 
 -   Server vs Serverless
+-   Infrastructure
 
 ## <a name="db-and-storage"></a>Database and storage
 
 -   SQL vs NoSQL
 -   Images and files
 -   Schema design
+-   Caching
 
 ## <a name="hosting/infra"></a>Hosting/Infrastructure
 
