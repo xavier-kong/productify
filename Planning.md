@@ -82,7 +82,7 @@ Much like the Javascript ecosystem, the UI framework ecosystem is full of differ
 
 -   Remote Client-Server Communications API calls
 
-For the project, the most common operations will be reading tasks, adding tasks and editing tasks. As the data could be nested, there could be advantages of using GraphQL.
+For the project, the most common operations will be reading tasks, adding tasks and editing tasks. As the data could be nested, there could be advantages of using GraphQL. For example, the initial render would need
 
     -   GraphQL and Schema
 
