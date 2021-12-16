@@ -101,6 +101,7 @@ For the project, the most common operations will be reading tasks, adding tasks 
 
 -   SQL vs NoSQL
 -   Images and files
+    -   S3
 -   Schema design
 -   Caching
 
