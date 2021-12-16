@@ -58,7 +58,9 @@ Start Date: 3rd December 2021
 
 Milestone 1 - Complete Design Document: 26th December 2021
 
-Milestone 2 -
+Milestone 2 - MVP: 30th January 2021
+
+Milestone 3 - Complete Project: 28th Febuary 2021
 
 ## <a name="solutions"></a>Proposed Solutions and Technical Architecture
 
