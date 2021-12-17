@@ -99,11 +99,15 @@ For the project, the most common operations will be reading tasks, adding tasks 
 
 ## <a name="db-and-storage"></a>Database and storage (persistance)
 
+For the project,
+
 -   SQL vs NoSQL
+    -   PostgreSQL for users
+    -   MongoDB for tasks?
 -   Images and files
     -   S3
 -   Schema design
--   Caching
+-   Caching with redis
 
 ## <a name="hosting/infra"></a>Hosting/Infrastructure
 
