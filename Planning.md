@@ -116,6 +116,7 @@ For the project,
 
     -   Long term project so AWS better
     -   AWS storage and database seem to be more established
+    -   Also use GCP for work so would prefer to try something else
 
 -   Terraform
 
