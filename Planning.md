@@ -112,7 +112,11 @@ For the project,
 
 ## <a name="hosting/infra"></a>Hosting/Infrastructure
 
--   AWS
+-   AWS vs Azure vs GCP
+
+    -   Long term project so AWS better
+    -   AWS storage and database seem to be more established
+
 -   Terraform
 
 ## <a name="testing"></a>Testing
