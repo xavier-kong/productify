@@ -109,6 +109,7 @@ For the project,
     -   S3
 -   Schema design
 -   Caching with redis
+    -   Possible use case to decrease initial data fetching
 
 ## <a name="hosting/infra"></a>Hosting/Infrastructure
 
