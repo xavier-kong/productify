@@ -95,7 +95,8 @@ For the project, the most common operations will be reading tasks, adding tasks 
 ## <a name="back-end"></a>Back End
 
 -   Server vs Serverless
-    -   Issues of cold starts
+    -   Issues of cold starts slowing inital render
+    -   Issues with large server downtime
 -   Infrastructure
 
 ## <a name="db-and-storage"></a>Database and storage (persistance)
