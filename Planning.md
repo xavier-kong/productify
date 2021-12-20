@@ -120,8 +120,6 @@ For the project,
     -   AWS storage and database seem to be more established
     -   Also use GCP for work so would prefer to try something else
 
--   Terraform
-
 ## <a name="testing"></a>Testing
 
 -   Testing
