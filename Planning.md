@@ -130,6 +130,7 @@ For the project,
 ## <a name="pipelines"></a>CI/CD Pipelines
 
 -   GitHub Actions vs TravisCI vs CircleCI vs Jenkins
+    -   AWS codepipeline with AWD code build
 
 ## <a name="system-context-diagram"></a>System context diagram
 
