@@ -131,6 +131,7 @@ For the project,
 
 -   GitHub Actions vs TravisCI vs CircleCI vs Jenkins
     -   AWS codepipeline with AWD code build
+    -   choosing AWS due to better support with AWS ecosystem
 
 ## <a name="system-context-diagram"></a>System context diagram
 
