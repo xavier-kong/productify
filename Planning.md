@@ -91,6 +91,7 @@ For the project, the most common operations will be reading tasks, adding tasks 
 -   Authentication
 -   State Management
     -   Redux
+-   Typescript
 
 ## <a name="back-end"></a>Back End
 
