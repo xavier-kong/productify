@@ -1,30 +1,3 @@
-Current task
-Undo the amplify stuff :(
-
-Set up GraphQL (watch the vid!)
-
-To do
-DB Design and stuff
-Project clean up
-dev branches / feature branches
-"react/jsx-props-no-spreading": "off" after designing props
-workflow with pull requests etc testing + linting
-tests
-Amplify setup 
-Theme design
-Amplify authentication
-Server Side Rendering, getStaticProps, getServerProps etc
-AWS Lambda 
-S3 for images
-DB design
-Page Design etc
-
-Ideas:
-https://www.youtube.com/watch?v=cLKLqpxPSws
-https://www.youtube.com/watch?v=kY--_5NhQoc
-
-Roadmap:
-To do list with sign in/up
-Calender view with timing
-Auto reschedule tasks
-Github + Leetcode streak tracker
+Set up material UI
+set up styles.js
+set up jest/cypress for TDD
