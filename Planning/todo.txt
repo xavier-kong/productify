@@ -1,0 +1,14 @@
+Components:
+- Top Nav Bar
+    - Button to open side menu
+    - Date and Time
+    - View Selector
+- Scheduler
+    - Daily, 3 day, weekly, monthly views
+    - Events
+- Task list
+    - Details
+    - Action options (completed, delegate, reschedule)
+
+set up styles.js
+set up jest/cypress for TDD
