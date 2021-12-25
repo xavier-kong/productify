@@ -10,5 +10,7 @@ Components:
     - Details
     - Action options (completed, delegate, reschedule)
 
+https://www.freecodecamp.org/news/a-better-way-to-structure-react-projects/
+
 set up styles.js
 set up jest/cypress for TDD
