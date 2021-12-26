@@ -11,6 +11,7 @@ Components:
     - Action options (completed, delegate, reschedule)
 
 https://www.freecodecamp.org/news/a-better-way-to-structure-react-projects/
+https://gridfiti.com/notion-dark-mode/ set up color scheme!
 
 set up styles.js
 set up jest/cypress for TDD
