@@ -3,16 +3,30 @@
         "browser": true,
         "es2021": true
     },
-    "extends": ["plugin:react/recommended", "airbnb", "prettier"],
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb",
+        "prettier",
+        "airbnb-typescript"
+        // "plugin:import/typescript",
+    ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
         "ecmaFeatures": {
             "jsx": true
         },
+        "project": "./tsconfig.json",
         "ecmaVersion": 12,
         "sourceType": "module"
     },
     "plugins": ["react", "@typescript-eslint"],
+    "settings": {
+        "import/resolver": {
+            "node": {
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            }
+        }
+    },
     "rules": {
         "react/jsx-filename-extension": [
             2,
@@ -20,13 +34,13 @@
         ],
         "react/react-in-jsx-scope": "off",
         "no-use-before-define": "off",
-        "react/jsx-props-no-spreading": "off"
-        // "react/function-component-definition": [
-        //     2,
-        //     {
-        //         "namedComponents": "arrow-function",
-        //         "unnamedComponents": "arrow-function"
-        //     }
-        // ]
+        "react/jsx-props-no-spreading": "off",
+        "react/function-component-definition": [
+            2,
+            {
+                "namedComponents": "arrow-function",
+                "unnamedComponents": "arrow-function"
+            }
+        ]
     }
 }
