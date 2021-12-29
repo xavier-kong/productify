@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/indent */
 // drawer component
 // https://mui.com/components/drawers/
 
@@ -57,6 +58,7 @@ const SideMenu = () => (
                                 </ListItemIcon>
                                 <ListItemText primary={text} />
                             </ListItem>
+                            // eslint-disable-next-line @typescript-eslint/comma-dangle
                         )
                     )}
                 </List>
