@@ -8,7 +8,9 @@ import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 
 const Navbar = () => (
-    <Box sx={{ flexGrow: 1 }}>
+    <Box sx={{ flexGrow: 1, display: 'inline' }}>
+        {' '}
+        {/* need to move this up */}
         <AppBar position="static">
             <Toolbar>
                 <IconButton
@@ -23,6 +25,11 @@ const Navbar = () => (
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                     Productify
                 </Typography>
+
+                {/* Date and Time */}
+
+                {/* View Selector */}
+
                 <Button color="inherit">Login</Button>
             </Toolbar>
         </AppBar>

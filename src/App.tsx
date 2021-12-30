@@ -1,6 +1,6 @@
 import React from 'react';
-import SideMenu from './components/SideMenu';
+import Navbar from './components/Navbar';
 
-const App = () => <SideMenu />;
+const App = () => <Navbar />;
 
 export default App;
