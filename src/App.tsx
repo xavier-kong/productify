@@ -1,13 +1,7 @@
 import React from 'react';
-import SideMenu from './components/SideMenu';
-import Navbar from './components/Navbar';
+import Main from './pages/Main';
 
 // const App = () => <Navbar />;
-const App = () => (
-    <>
-        <Navbar />
-        <SideMenu />
-    </>
-);
+const App = () => <Main />;
 
 export default App;
