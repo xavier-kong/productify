@@ -3,8 +3,8 @@ import Navbar from '../components/Navbar';
 
 const Main = () => (
     <>
-        <SideMenu />
         <Navbar />
+        <SideMenu />
     </>
 );
 
