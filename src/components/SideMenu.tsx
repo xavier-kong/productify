@@ -28,7 +28,7 @@ const SideMenu = () => (
         >
             <Toolbar>
                 <Typography variant="h6" noWrap component="div">
-                    Permanent drawer
+                    Productify
                 </Typography>
             </Toolbar>
         </AppBar>
