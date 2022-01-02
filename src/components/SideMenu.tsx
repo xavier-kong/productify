@@ -26,9 +26,11 @@ const SideMenu = () => (
                 ml: `${drawerWidth}px`,
             }}
         >
+            {/* would it be better to import navbar than all in single component? */}
             <Toolbar>
                 <Typography variant="h6" noWrap component="div">
                     Productify
+                    {/* need to make this center */}
                 </Typography>
             </Toolbar>
         </AppBar>
