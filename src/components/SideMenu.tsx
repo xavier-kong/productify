@@ -6,13 +6,14 @@ import CssBaseline from '@mui/material/CssBaseline';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import List from '@mui/material/List';
-import Typography from '@mui/material/Typography';
+// import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import ListItem from '@mui/material/ListItem';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import InboxIcon from '@mui/icons-material/MoveToInbox';
 import MailIcon from '@mui/icons-material/Mail';
+import Navbar from './Navbar';
 
 const drawerWidth = 240;
 
@@ -26,13 +27,7 @@ const SideMenu = () => (
                 ml: `${drawerWidth}px`,
             }}
         >
-            {/* would it be better to import navbar than all in single component? */}
-            <Toolbar>
-                <Typography variant="h6" noWrap component="div">
-                    Productify
-                    {/* need to make this center */}
-                </Typography>
-            </Toolbar>
+            <Navbar />
         </AppBar>
         <Drawer
             sx={{
